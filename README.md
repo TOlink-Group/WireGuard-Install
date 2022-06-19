@@ -32,7 +32,7 @@ sudo bash wireguard.sh
 Alternative setup URL:
 
 ```bash
-https://github.com/hwdsl2/wireguard-install/raw/master/wireguard-install.sh
+https://github.com/TOlink-Group/WireGuard-Install/blob/master/wireguard-install.sh
 ```
 
 If you are unable to download, open [wireguard-install.sh](wireguard-install.sh), then click the `Raw` button on the right. Press `Ctrl/Cmd+A` to select all, `Ctrl/Cmd+C` to copy, then paste into your favorite editor.
